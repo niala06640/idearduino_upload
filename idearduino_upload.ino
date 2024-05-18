@@ -9,5 +9,5 @@ void setup() {
 void loop() {
   delay(2000);
   ESP_LOGI("","loop");
-  Serial.print("loop !");
+  Serial.print("boucle !");
 }
